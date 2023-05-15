@@ -4,6 +4,6 @@
 // ... And a few HTML radio inputs :)
 
 // How it was made:
-// https://youtu.be/MX_Y1jO_iIk
+// https://lrmn.is-a.fun
 
-// linktr.ee/ivorjetski for more
+// htpps://is-a.fun for more
